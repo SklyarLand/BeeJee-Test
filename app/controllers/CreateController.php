@@ -16,8 +16,8 @@ class CreateController extends Controller
     public function set()
     {
         $this->model->setData($_POST);
+        echo '<script>alert("Задача успешно добавлена")</script>';
         echo '<script>document.location.href="/"</script>';
-
     }
 }
 ?>

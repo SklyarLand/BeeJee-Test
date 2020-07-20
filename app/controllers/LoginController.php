@@ -20,7 +20,6 @@ class LoginController extends Controller
             $_SESSION['login'] = $_POST['login'];
             $_SESSION['password'] = $_POST['password'];
             header('Location: /');
-            //echo '<script>document.location.href="/"</script>';
         } else {
             $this->main(true);
         }
