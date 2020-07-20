@@ -1,0 +1,16 @@
+{
+    "name": "iskritskiy/test",
+    "authors": [
+        {
+            "name": "Alexandr Iskritskiy",
+            "email": "sushu1998@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "test\\": ""
+        }
+    }
+}
