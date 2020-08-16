@@ -1,11 +1,7 @@
 <h1>Проект тестового задания</h1>
 
-В файле app/config/Database.php расположены параметры конфигурации БД
+В файле App/Config/Database.php расположены параметры конфигурации БД
 
-При размещении на zzz.com необходимо заменить в файле index.php
-< $route = $_GET['route'] ?? ''; >
-на
-< $route = isset($_GET['route']) ? $_GET['route'] : ''; >
 
 <h2>Текст задания</h2>
 
@@ -42,14 +38,25 @@
 Состоит из 2 таблиц:
 
 tasks:
+
           id - int
+    
         name - varchar(50)
+        
       e-mail - varchar(50)
+      
      content - text
+     
       closed - boolean
+      
       edited - boolean
 
 admins:
+
           id - int
+
        login - varchar(50)
+
     password - varchar(50)
+    
+test.sql - дамп базы данных

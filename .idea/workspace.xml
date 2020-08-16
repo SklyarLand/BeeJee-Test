@@ -20,48 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f97ac1a-a66d-473b-95f3-bb34cfcbee5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/App/Controllers/AuthController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/Controllers/TasksController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/Core/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/Core/View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/Models/Tasks.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/auth/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/layouts/base-template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/layouts/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/layouts/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/layouts/response.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/layouts/without-header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/responses/fail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/responses/success.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/tasks/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/tasks/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views/tasks/show.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Config/Database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/CreateController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/EditController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/CreateModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/EditModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/LoginModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/MainModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Core/Model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/View.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/CreateView.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/views/tasks/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/EditView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/LoginView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/MainView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +64,16 @@
       <workItem from="1597165733942" duration="1715000" />
       <workItem from="1597168701864" duration="39000" />
       <workItem from="1597479150605" duration="15036000" />
-      <workItem from="1597605561423" duration="229000" />
+      <workItem from="1597605561423" duration="1026000" />
     </task>
+    <task id="LOCAL-00001" summary="Версия 2.0">
+      <created>1597605947086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597605947086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,10 +91,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Версия 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Версия 2.0" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1597508989525">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597508989525" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1597605967406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597605967406" />
   </component>
 </project>
