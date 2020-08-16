@@ -1,0 +1,47 @@
+ body a, a:hover {
+     text-decoration: none;
+     color: inherit;
+}
+ .table-header  div {
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
+ }
+ .task-row div {
+      padding-bottom: 15px;
+      padding-top: 15px;
+ }
+ .mt-20 {
+      margin-top: 20px;
+ }
+ .mt-40 {
+     margin-top: 40px;
+ }
+
+ #btn-delete {
+    display: inline-block;
+ }
+
+ .btn-login {
+     color: white;
+     font-size: 20px;
+     margin: 0 30px;
+ }
+
+ .btn-login:hover {
+     background-color: white;
+ }
+
+ .ml-50 {
+     margin-left: 50px;
+ }
+
+ .welcome {
+     height: inherit;
+     background-color: white;
+     padding: 30px;
+ }
+
+ .h-inherit {
+     height: inherit;
+ }
